@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="violet_200">#BC89FB</color>
+    <color name="violet_500">#00AAF8</color>
+    <color name="violet_700">#465CD5</color>
+    <color name="sky_100">#86D52A</color>
+    <color name="sky_200">#07988B</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#F62212</color>
+    <color name="green">#15F31E</color>
+</resources>
